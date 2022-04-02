@@ -1,0 +1,2 @@
+,id,neo_reference_id,name,name_limited,designation,nasa_jpl_url,absolute_magnitude_h,is_potentially_hazardous_asteroid,orbital_data,is_sentry_object,estimated_diameter_max_ft,estimated_diameter_min_ft,close_approach_date,miss_distance_miles,relative_velocity_mph
+0,2001036,2001036,1036 Ganymed (A924 UB),Ganymed,1036,http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001036,9.25,False,,False,275438.7444345857,123179.9512385851,1910-02-25,181845427.7914835732,14101.1189891916
